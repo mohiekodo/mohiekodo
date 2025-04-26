@@ -90,8 +90,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohie93&show_icons=true&locale=en&layout=compact" alt="mohie93" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiekodo&show_icons=true&locale=en&layout=compact" alt="mohiekodo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohie93&show_icons=true&locale=en" alt="mohie93" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohiekodo&show_icons=true&locale=en" alt="mohiekodo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohie93&" alt="mohie93" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohiekodo&" alt="mohiekodo" /></p>
